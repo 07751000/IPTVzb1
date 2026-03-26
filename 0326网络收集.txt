@@ -72,5 +72,5 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 天映经典台,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
-中视,https://t.freetv.fun/live/zhong-shi-8.php
+中视,https://t.freetv.fun/live/zhong-shi-7.php
 中天新闻台,https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
