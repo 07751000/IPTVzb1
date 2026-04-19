@@ -15,8 +15,10 @@ TVB黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
 影迷数位电影台,https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.php
 TVB翡翠马来,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVB奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB无线新闻台,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
@@ -37,7 +39,6 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 翡翠台,http://r.jdshipin.com/62WM7
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
 凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
@@ -47,6 +48,7 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
 凤凰资讯台,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
@@ -65,6 +67,7 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 靖天卡通台,https://t.freetv.fun/live/jing-tian-qia-tong.php
 靖天日本台,https://t.freetv.fun/live/jing-tian-ri-ben.php
 靖天育乐,https://t.freetv.fun/live/jing-tian-yu-le.php
+靖天资讯台,https://t.freetv.fun/live/jing-tian-zi-xun.php
 靖天资讯台,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
 靖天综合台,https://t.freetv.fun/live/jing-tian-zong-he.php
 龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
@@ -83,14 +86,13 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
 台视,https://t.freetv.fun/live/tai-shi.php
-台视财经,https://t.freetv.fun/live/tai-shi-cai-jing-1.php
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
+台视财经,https://t.freetv.fun/live/tai-shi-cai-jing-1.php
 台视新闻台,https://stream1.freetv.fun/tai-shi-xin-wen-1.m3u8
 台视新闻台,https://stream1.freetv.fun/tai-shi-xin-wen-10.m3u8
 台视新闻台,https://stream1.freetv.fun/tai-shi-xin-wen-22.m3u8
 台视新闻台,https://stream1.freetv.fun/tai-shi-xin-wen-8.m3u8
 台视综合台,http://74.91.26.218:82/live/ttvzh.m3u8
-台视综合台,http://iptv.4666888.xyz/iptv2A.php?id=51
 天映经典台,http://74.91.26.218:82/live/tyjd.m3u8
 天映经典台,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
