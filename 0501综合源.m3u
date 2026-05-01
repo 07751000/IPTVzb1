@@ -2109,8 +2109,6 @@ rtmp://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175
 rtmp://tv.drs.dzxw.net/channellive/ggpd-dz2
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB翡翠剧集.png" group-title="港澳频道",TVB翡翠剧集
 http://iptv.4666888.xyz/iptv2A.php?id=33
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB黄金华剧.png" group-title="港澳频道",TVB黄金华剧
-http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/采昌影剧台.png" group-title="港澳频道",采昌影剧台
 https://t.freetv.fun/live/cai-chang-ying-ju-1.php
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="港澳频道",东森电影台
@@ -2145,6 +2143,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=31
 https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB1.png" group-title="港澳频道",TVB1
 http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBJ1.png" group-title="港澳频道",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBJ1.png" group-title="港澳频道",TVBJ1
 https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBS精采.png" group-title="港澳频道",TVBS精采
@@ -2308,5 +2308,5 @@ http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港澳频道",中天新闻台
 https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
 
-#EXTINF:-1 group-title="2026/04/30 13:11更新",虚情的爱
+#EXTINF:-1 group-title="2026/05/01 13:45更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
