@@ -34,6 +34,7 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 公视台语,http://74.91.26.218:82/live/ptsty.m3u8
 华视,http://74.91.26.218:82/live/cts.m3u8
 华视新闻资讯台,http://74.91.26.218:82/live/ctsnews.m3u8
+寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-4.m3u8
 寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-6.m3u8
 寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-7.m3u8
