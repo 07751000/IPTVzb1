@@ -1,0 +1,13 @@
+港澳频道,#genre#
+公视,http://74.91.26.218:82/live/pts.m3u8
+公视台语,http://74.91.26.218:82/live/ptsty.m3u8
+华视,http://74.91.26.218:82/live/cts.m3u8
+华视,https://t.freetv.fun/live/hua-shi-2.ts
+华视新闻资讯台,http://74.91.26.218:82/live/ctsnews.m3u8
+民视第一台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003
+台视,http://74.91.26.218:82/live/ttv.m3u8
+台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
+台视综合台,http://74.91.26.218:82/live/ttvzh.m3u8
+小公视,http://74.91.26.218:82/live/ptsse.m3u8
+中视,http://74.91.26.218:82/live/ctv.m3u8
+中视,https://t.freetv.fun/live/zhong-shi-2.ts
