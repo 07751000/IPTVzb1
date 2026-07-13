@@ -20,6 +20,7 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 翡翠台,https://stream1.freetv.fun/fei-cui-2.ctv
 凤凰卫视中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰卫视中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
 凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
@@ -32,8 +33,8 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
-凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
 凤凰资讯台,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
+凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视台语,http://74.91.26.218:82/live/ptsty.m3u8
 华视,http://74.91.26.218:82/live/cts.m3u8
@@ -45,9 +46,9 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 民视第一台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003
 民视第一台,https://stream1.freetv.fun/min-shi-di-yi-2.ctv
 民视台湾台,https://stream1.freetv.fun/min-shi-tai-wan-6.ctv
-民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
+民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-7.m3u8
 三立台湾台,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
