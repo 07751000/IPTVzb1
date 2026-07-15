@@ -18,7 +18,6 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
 东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
-翡翠台,https://stream1.freetv.fun/fei-cui-2.ctv
 凤凰卫视中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -39,6 +38,7 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 公视台语,http://74.91.26.218:82/live/ptsty.m3u8
 华视,http://74.91.26.218:82/live/cts.m3u8
 华视,https://t.freetv.fun/live/hua-shi-2.ts
+华视,https://t.freetv.fun/live/hua-shi-1-2.m3u8
 华视新闻资讯台,http://74.91.26.218:82/live/ctsnews.m3u8
 寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-6.m3u8
 寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-7.m3u8
@@ -65,3 +65,5 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视,https://t.freetv.fun/live/zhong-shi-2.ts
+中视,https://t.freetv.fun/live/zhong-shi-1-1.m3u8
+中天新闻台,https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
