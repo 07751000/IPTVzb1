@@ -4,7 +4,7 @@
 靖洋戏剧台,https://stream1.freetv.fun/jing-yang-xi-ju-1.ctv
 纬来电影台,https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
 纬来电影台,https://stream1.freetv.fun/wei-lai-dian-ying-3.m3u8
-BWF梁王组合速胜晋级王祉怡横扫取胜【回放】大波波夫02安东森（余昌瑞）16:50,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/634/606/5106634606/media/5106634606_5339380981_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701818512&pid=2028597139&timestamp=20260716120316&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966202577&ParentNodeID=-99&assertID=5701818512&client_ip=171.8.79.254&SecurityKey=20260716120316&promotionId=&mvid=5106634606&mcid=1003&mpid=120000582850&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=721185f49d372675deae59939655a559&sv=10004&ct=android
+BWF石宇奇、陈雨菲晋级梁王组合挺进八强【回放】乌拜迪拉02安东森15:50,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/635/005/5106635005/media/5106635005_5339443031_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701820025&pid=2028597139&timestamp=20260717100211&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966226227&ParentNodeID=-99&assertID=5701820025&client_ip=171.8.79.254&SecurityKey=20260717100211&promotionId=&mvid=5106635005&mcid=1003&mpid=120000582851&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d581e340d3a562b66e76d63048258240&sv=10004&ct=android
 TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 八大综合台,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
 东森,https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
@@ -49,7 +49,6 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 民视台湾台,https://stream1.freetv.fun/min-shi-tai-wan-6.ctv
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
-民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-7.m3u8
 三立台湾台,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
