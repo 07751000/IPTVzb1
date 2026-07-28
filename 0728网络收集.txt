@@ -54,7 +54,6 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 台视,http://74.91.26.218:82/live/ttv.m3u8
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 台视财经,https://t.freetv.fun/live/tai-shi-cai-jing.ts
-台视新闻台,https://stream1.freetv.fun/tai-shi-xin-wen-1.m3u8
 台视新闻台,https://stream1.freetv.fun/tai-shi-xin-wen-10.m3u8
 台视新闻台,https://stream1.freetv.fun/tai-shi-xin-wen-22.m3u8
 台视新闻台,https://stream1.freetv.fun/tai-shi-xin-wen-8.m3u8
@@ -62,6 +61,3 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 天映经典台,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
-
-2026/07/27 12:00更新,#genre#
-虚情的爱,https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
