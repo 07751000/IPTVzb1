@@ -1,8 +1,11 @@
 港澳频道,#genre#
-PlutoTVBackcountry[684p],https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
 TVB1Chinese,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219180
+TVBDramaChinese,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219182
+TVBNewsChinese,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219185
 TVBS[760p],https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
+TVBeChinese,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219183
 大爱一,https://7612-5516-affc-d88b.kylintv.tv/live/daai_iphone.m3u8
+东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 凤凰卫视,https://7612-5516-affc-d88b.kylintv.tv/live/pxnaus_iphone.m3u8
 凤凰卫视香港,https://7612-5516-affc-d88b.kylintv.tv/live/pxhkus_iphone.m3u8
 凤凰卫视中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
@@ -11,17 +14,18 @@ TVBS[760p],https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 华视,http://74.91.26.218:82/live/cts.m3u8
 华视,https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8
 华视新闻资讯台,http://74.91.26.218:82/live/ctsnews.m3u8
+龙华洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34828
 民视,http://74.91.26.218:82/live/ftv.m3u8
 民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
 民视第一台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003
 民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
 台视,http://74.91.26.218:82/live/ttv.m3u8
+台视,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34879
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 台视新闻台,http://74.91.26.218:82/live/ttvnews.m3u8
 台视综合台,http://74.91.26.218:82/live/ttvzh.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
+中视菁采台,http://74.91.26.218:82/live/ctvjc.m3u8
 中视经典台,http://74.91.26.218:82/live/ctvjd.m3u8
-
-2026/08/31 13:21更新,#genre#
-虚情的爱,https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
+中视新闻台,http://74.91.26.218:82/live/ctvnews.m3u8
