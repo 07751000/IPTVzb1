@@ -1,8 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/LALIGATVBAR2.png" group-title="港澳频道",LALIGATVBAR2
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=107589
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/RELAXNATURERELAXATION.png" group-title="港澳频道",RELAXNATURERELAXATION
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=1505569
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB1Chinese.png" group-title="港澳频道",TVB1Chinese
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219180
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBChinese.png" group-title="港澳频道",TVBChinese
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219181
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBJ1Chinese.png" group-title="港澳频道",TVBJ1Chinese
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219184
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBS[760p].png" group-title="港澳频道",TVBS[760p]
 https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/大爱一.png" group-title="港澳频道",大爱一
@@ -50,5 +52,5 @@ http://74.91.26.218:82/live/ctvjd.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="港澳频道",中视新闻台
 http://74.91.26.218:82/live/ctvnews.m3u8
 
-#EXTINF:-1 group-title="2026/09/02 12:17更新",虚情的爱
+#EXTINF:-1 group-title="2026/09/03 12:13更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
