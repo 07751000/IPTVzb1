@@ -7,22 +7,16 @@ http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34825
 http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34852
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="港澳频道",AXN
 http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34597
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB1Chinese.png" group-title="港澳频道",TVB1Chinese
-http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219180
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBChinese.png" group-title="港澳频道",TVBChinese
-http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219181
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBE新闻台.png" group-title="港澳频道",TVBE新闻台
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34660
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBNewsChinese.png" group-title="港澳频道",TVBNewsChinese
-http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219185
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="港澳频道",TVBS
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34915
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="港澳频道",AXN
+http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34930
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/StoriesbyAMC[684p].png" group-title="港澳频道",StoriesbyAMC[684p]
+https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBDramaChinese.png" group-title="港澳频道",TVBDramaChinese
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219182
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBS[760p].png" group-title="港澳频道",TVBS[760p]
 https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/大爱一.png" group-title="港澳频道",大爱一
 https://7612-5516-affc-d88b.kylintv.tv/live/daai_iphone.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森洋片.png" group-title="港澳频道",东森洋片
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="港澳频道",凤凰卫视
 https://7612-5516-affc-d88b.kylintv.tv/live/pxnaus_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港.png" group-title="港澳频道",凤凰卫视香港
@@ -39,8 +33,14 @@ http://74.91.26.218:82/live/cts.m3u8
 https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/华视新闻资讯台.png" group-title="港澳频道",华视新闻资讯台
 http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/靖天.png" group-title="港澳频道",靖天
+http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34841
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/靖天卡通台.png" group-title="港澳频道",靖天卡通台
+http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34842
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/靖天映画台.png" group-title="港澳频道",靖天映画台
 http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34838
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华洋片.png" group-title="港澳频道",龙华洋片
+http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34828
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港澳频道",民视
 http://74.91.26.218:82/live/ftv.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="港澳频道",民视第一台
@@ -60,8 +60,6 @@ http://74.91.26.218:82/live/ttvzh.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/小公视.png" group-title="港澳频道",小公视
 http://74.91.26.218:82/live/ptsse.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港澳频道",中视
-http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34897
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港澳频道",中视
 http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视菁采台.png" group-title="港澳频道",中视菁采台
 http://74.91.26.218:82/live/ctvjc.m3u8
@@ -70,5 +68,5 @@ http://74.91.26.218:82/live/ctvjd.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="港澳频道",中视新闻台
 http://74.91.26.218:82/live/ctvnews.m3u8
 
-#EXTINF:-1 group-title="2026/09/15 12:44更新",虚情的爱
+#EXTINF:-1 group-title="2026/09/16 12:40更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4

@@ -3,14 +3,11 @@
 龙祥电影台,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34825
 纬来电影台,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34852
 AXN,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34597
-TVB1Chinese,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219180
-TVBChinese,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219181
-TVBE新闻台,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34660
-TVBNewsChinese,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219185
-TVBS,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34915
+AXN,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34930
+StoriesbyAMC[684p],https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
+TVBDramaChinese,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219182
 TVBS[760p],https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 大爱一,https://7612-5516-affc-d88b.kylintv.tv/live/daai_iphone.m3u8
-东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 凤凰卫视,https://7612-5516-affc-d88b.kylintv.tv/live/pxnaus_iphone.m3u8
 凤凰卫视香港,https://7612-5516-affc-d88b.kylintv.tv/live/pxhkus_iphone.m3u8
 凤凰卫视中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
@@ -19,7 +16,10 @@ TVBS[760p],https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 华视,http://74.91.26.218:82/live/cts.m3u8
 华视,https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8
 华视新闻资讯台,http://74.91.26.218:82/live/ctsnews.m3u8
+靖天,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34841
+靖天卡通台,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34842
 靖天映画台,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34838
+龙华洋片,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34828
 民视,http://74.91.26.218:82/live/ftv.m3u8
 民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
 民视第一台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003
@@ -29,7 +29,6 @@ TVBS[760p],https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 台视新闻台,http://74.91.26.218:82/live/ttvnews.m3u8
 台视综合台,http://74.91.26.218:82/live/ttvzh.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
-中视,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34897
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视菁采台,http://74.91.26.218:82/live/ctvjc.m3u8
 中视经典台,http://74.91.26.218:82/live/ctvjd.m3u8
