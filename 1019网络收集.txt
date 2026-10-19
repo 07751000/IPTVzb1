@@ -1,4 +1,6 @@
 港澳频道,#genre#
+AXN,http://31.43.191.125:8080/restream/restream/34597
+TVB经典台,http://31.43.191.125:8080/restream/restream/34555
 TVBSASIA,http://31.43.191.125:8080/restream/restream/34561
 TVBS[760p],https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 大爱一,https://7612-5516-affc-d88b.kylintv.tv/live/daai_iphone.m3u8
