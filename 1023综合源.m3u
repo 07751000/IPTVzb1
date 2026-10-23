@@ -5,18 +5,26 @@ http://31.43.191.125:8080/restream/restream/34597
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/MTVBiggestPopCA.png" group-title="港澳频道",MTVBiggestPopCA
 https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/MTVBiggestPop.png" group-title="港澳频道",MTVBiggestPop
-https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/MTVPlutoTVBR.png" group-title="港澳频道",MTVPlutoTVBR
+https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB经典台.png" group-title="港澳频道",TVB经典台
 http://31.43.191.125:8080/restream/restream/34555
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB1.png" group-title="港澳频道",TVB1
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58589.ts
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBDRAMA.png" group-title="港澳频道",TVBDRAMA
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58591.ts
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBE新闻台.png" group-title="港澳频道",TVBE新闻台
 http://31.43.191.125:8080/restream/restream/34660
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBSASIA.png" group-title="港澳频道",TVBSASIA
 http://31.43.191.125:8080/restream/restream/34561
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBSASIA.png" group-title="港澳频道",TVBSASIA
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052643.ts
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBS[760p].png" group-title="港澳频道",TVBS[760p]
 https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBrasilOeste.png" group-title="港澳频道",TVBrasilOeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBrusque.png" group-title="港澳频道",TVBrusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBrusque.png" group-title="港澳频道",TVBrusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/大爱一.png" group-title="港澳频道",大爱一
 https://7612-5516-affc-d88b.kylintv.tv/live/daai_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="港澳频道",凤凰卫视
@@ -34,5 +42,5 @@ https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="港澳频道",民视第一台
 http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003
 
-#EXTINF:-1 group-title="2026/10/22 12:29更新",虚情的爱
+#EXTINF:-1 group-title="2026/10/23 12:33更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
