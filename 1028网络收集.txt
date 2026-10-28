@@ -1,0 +1,5 @@
+港澳频道,#genre#
+TVB经典台,http://31.43.191.125:8080/restream/restream/34555
+TVBE新闻台,http://31.43.191.125:8080/restream/restream/34660
+凤凰资讯台,http://31.43.191.125:8080/restream/restream/34641
+民视第一台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003
