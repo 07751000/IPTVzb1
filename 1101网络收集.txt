@@ -1,3 +1,0 @@
-港澳频道,#genre#
-TVBSASIA,http://31.43.191.125:8080/restream/restream/34561
-民视第一台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003
