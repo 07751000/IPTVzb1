@@ -1,26 +1,30 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="港澳频道",AXN
-http://31.43.191.125:8080/restream/restream/34597
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB经典台.png" group-title="港澳频道",TVB经典台
 http://31.43.191.125:8080/restream/restream/34555
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB1.png" group-title="港澳频道",TVB1
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58589.ts
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB1.png" group-title="港澳频道",TVB1
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58594.ts
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB1.png" group-title="港澳频道",TVB1
 http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269834.ts
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBChinese.png" group-title="港澳频道",TVBChinese
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219181
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBDRAMA.png" group-title="港澳频道",TVBDRAMA
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58591.ts
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBDRAMA.png" group-title="港澳频道",TVBDRAMA
 http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269830.ts
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBDramaChinese.png" group-title="港澳频道",TVBDramaChinese
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219182
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBE新闻台.png" group-title="港澳频道",TVBE新闻台
 http://31.43.191.125:8080/restream/restream/34660
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBJ1.png" group-title="港澳频道",TVBJ1
-http://mtayeh.ottb.xyz/live/774710333494/659822672281/58588.ts
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBE.png" group-title="港澳频道",TVBE
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58593.ts
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBJ1.png" group-title="港澳频道",TVBJ1
 http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269835.ts
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBSASIA.png" group-title="港澳频道",TVBSASIA
 http://tv.cloudcdn.me:80/live.ts?channelId=132170&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBSASIA.png" group-title="港澳频道",TVBSASIA
 http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052643.ts
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBeChinese.png" group-title="港澳频道",TVBeChinese
-http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219183
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBe.png" group-title="港澳频道",TVBe
-http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269832.ts
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森.png" group-title="港澳频道",东森
 http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269923.ts
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森卫视.png" group-title="港澳频道",东森卫视
@@ -38,5 +42,5 @@ http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052448.ts
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映经典台.png" group-title="港澳频道",天映经典台
 http://tv.cloudcdn.me:80/live.ts?channelId=133120&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 
-#EXTINF:-1 group-title="2026/11/11 15:01更新",虚情的爱
+#EXTINF:-1 group-title="2026/11/12 15:09更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
