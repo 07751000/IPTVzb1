@@ -1,0 +1,12 @@
+港澳频道,#genre#
+AXN,http://31.43.191.125:8080/restream/restream/34597
+TVB经典台,http://31.43.191.125:8080/restream/restream/34555
+TVB1,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58589.ts
+TVBE新闻台,http://31.43.191.125:8080/restream/restream/34660
+TVBJ1,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58588.ts
+TVBNewsChinese,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/219185
+凤凰中文,http://31.43.191.125:8080/restream/restream/34629
+凤凰资讯台,http://31.43.191.125:8080/restream/restream/34641
+民视第一台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003
+天映,http://tv.cloudcdn.me:80/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+天映经典台,http://tv.cloudcdn.me:80/live.ts?channelId=133120&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
